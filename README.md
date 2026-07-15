@@ -103,6 +103,21 @@ Complete ML pipeline for financial NLP tasks including data preprocessing, featu
 
 ---
 
+## 🎖️ Open Source Community Badges
+
+<p align="center">
+  <a href="https://github.com/TPIsoftwareOSPO/digiRunner-Open-Source/discussions/140">
+    <img src="https://raw.githubusercontent.com/TPIsoftwareOSPO/digiRunner-Open-Source/main/Badges_Assets/02-Project%20Builder%20Badge.svg" height="130" alt="OpenTPI Project Builder Badge"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>Project Builder Badge</b> · <a href="https://github.com/TPIsoftwareOSPO/digiRunner-Open-Source/blob/main/Community_Badges.md">OpenTPI Community</a><br/>
+  Awarded for building <b>QuantDashboard AI</b> with OpenTPI open source software and sharing it with the community.
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">

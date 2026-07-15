@@ -66,12 +66,29 @@ Campus indoor delivery robot system integrating ESP32 hardware, FastAPI backend,
 
 ---
 
+<table>
+<tr>
+<td width="72%" valign="top">
+
 ### 📈 GDG — AI Investment Analysis Dashboard
 > *2025/12 – present*
 
 Taiwan stock AI quantitative analysis dashboard with AI dialogue, real-time quotes, K-line charts, and portfolio management.
 
 `React` `Dify` `Docker` `FinMind API` `Tailwind CSS`
+
+</td>
+<td width="28%" align="center" valign="middle">
+
+<a href="https://github.com/TPIsoftwareOSPO/digiRunner-Open-Source/discussions/140">
+  <img src="https://raw.githubusercontent.com/TPIsoftwareOSPO/digiRunner-Open-Source/main/Badges_Assets/02-Project%20Builder%20Badge.svg" width="120" alt="OpenTPI Project Builder Badge"/>
+</a>
+
+<sub>🎖️ <b>Project Builder Badge</b><br/><a href="https://github.com/TPIsoftwareOSPO/digiRunner-Open-Source/blob/main/Community_Badges.md">OpenTPI Community</a></sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -100,21 +117,6 @@ Complete ML pipeline for financial NLP tasks including data preprocessing, featu
 | 🥇 Ministry of Education AI CUP Award — Top 5% (36th/790), AI CUP 2025 | 2025 |
 | 🏅 Honorable Mention — Capstone Competition, Tamkang University | 2024 |
 | 📖 Dean's List (書卷獎) — Tamkang University | 2022, 2023 |
-
----
-
-## 🎖️ Open Source Community Badges
-
-<p align="center">
-  <a href="https://github.com/TPIsoftwareOSPO/digiRunner-Open-Source/discussions/140">
-    <img src="https://raw.githubusercontent.com/TPIsoftwareOSPO/digiRunner-Open-Source/main/Badges_Assets/02-Project%20Builder%20Badge.svg" height="130" alt="OpenTPI Project Builder Badge"/>
-  </a>
-</p>
-
-<p align="center">
-  <b>Project Builder Badge</b> · <a href="https://github.com/TPIsoftwareOSPO/digiRunner-Open-Source/blob/main/Community_Badges.md">OpenTPI Community</a><br/>
-  Awarded for building <b>QuantDashboard AI</b> with OpenTPI open source software and sharing it with the community.
-</p>
 
 ---
 

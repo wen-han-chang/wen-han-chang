@@ -68,7 +68,9 @@ Campus indoor delivery robot system integrating ESP32 hardware, FastAPI backend,
 
 <table>
 <tr>
-<td width="72%" valign="top">
+<td width="64%" valign="middle">
+
+<br/>
 
 ### 📈 GDG — AI Investment Analysis Dashboard
 > *2025/12 – present*
@@ -77,14 +79,18 @@ Taiwan stock AI quantitative analysis dashboard with AI dialogue, real-time quot
 
 `React` `Dify` `Docker` `FinMind API` `Tailwind CSS`
 
+<br/>
+
 </td>
-<td width="28%" align="center" valign="middle">
+<td width="36%" align="center" valign="middle">
 
 <a href="https://github.com/TPIsoftwareOSPO/digiRunner-Open-Source/discussions/140">
-  <img src="https://raw.githubusercontent.com/TPIsoftwareOSPO/digiRunner-Open-Source/main/Badges_Assets/02-Project%20Builder%20Badge.svg" width="120" alt="OpenTPI Project Builder Badge"/>
+  <img src="https://raw.githubusercontent.com/TPIsoftwareOSPO/digiRunner-Open-Source/main/Badges_Assets/02-Project%20Builder%20Badge.svg" width="190" alt="OpenTPI Project Builder Badge"/>
 </a>
 
-<sub>🎖️ <b>Project Builder Badge</b><br/><a href="https://github.com/TPIsoftwareOSPO/digiRunner-Open-Source/blob/main/Community_Badges.md">OpenTPI Community</a></sub>
+<br/>
+
+<b>🎖️ Project Builder Badge</b><br/><sub><a href="https://github.com/TPIsoftwareOSPO/digiRunner-Open-Source/blob/main/Community_Badges.md">OpenTPI Community</a></sub>
 
 </td>
 </tr>
